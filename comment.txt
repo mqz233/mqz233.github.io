@@ -1,1 +1,2 @@
+test merge (comment branch)
 test comment branch
